@@ -1,6 +1,4 @@
-// ========================================
-// FILE: api/fun-stats.js
-// ========================================
+
 export default function handler(req, res) {
   const stats = [
     { emoji: '📅', label: 'Coding Since', value: '2023' },
