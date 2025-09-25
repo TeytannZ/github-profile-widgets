@@ -1,6 +1,4 @@
-// ========================================
-// FILE: api/header.js
-// ========================================
+
 export default function handler(req, res) {
   const { 
     text = "Hi there! I'm Teytann", 
