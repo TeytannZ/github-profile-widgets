@@ -1,6 +1,4 @@
-// ========================================
-// FILE: api/contact-card.js
-// ========================================
+
 export default function handler(req, res) {
   const platforms = [
     { name: 'Gmail', icon: '📧', color: '#ea4335', bg: 'rgba(234, 67, 53, 0.1)' },
