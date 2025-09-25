@@ -1,6 +1,4 @@
-// ========================================
-// FILE: api/tech-stack.js
-// ========================================
+
 export default function handler(req, res) {
   const technologies = [
     { name: 'JavaScript', color: '#f7df1e', level: 85, icon: '🟨' },
