@@ -1,7 +1,4 @@
 
-// ========================================
-// FILE: package.json (Root of project)
-// ========================================
 {
   "name": "github-profile-widgets",
   "version": "1.0.0",
