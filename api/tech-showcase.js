@@ -130,8 +130,7 @@ export default function handler(req, res) {
               <rect x="320" y="${y - 18}" width="500" height="28" class="skill-track" rx="14"/>
               <rect x="320" y="${y - 18}" width="${barWidth}" height="28" 
                     fill="${tech.color}" class="skill-bar" rx="14"
-                    style="--target-width: ${barWidth}px;">
-                <animate attributeName="width" from="0" to="${barWidth}" dur="3s" begin="${(catIndex * 2 + techIndex) * 0.3}s"/>
+                    style="--target-width: ${barWidth}px;"/>
               </rect>
               
               <!-- Percentage -->
